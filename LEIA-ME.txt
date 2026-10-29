@@ -1,0 +1,11 @@
+CANTINHO DAS ATIVIDADES — TIA NICE
+
+1. Publique a pasta inteira em uma hospedagem de sites estáticos (ex.: GitHub Pages ou Vercel).
+2. Cada atividade HTML deve ser salva dentro da pasta atividades/.
+3. Acrescente o registro correspondente no arquivo atividades.js.
+4. Publique a versão atualizada na MESMA hospedagem/projeto para manter o endereço principal.
+5. Cada atividade terá um link direto como https://seu-site/atividades/nome-da-atividade.html
+
+IMPORTANTE: este ZIP contém a estrutura inicial do portal. As atividades criadas em conversas anteriores ainda não estão incluídas. Para inseri-las, será necessário fornecer os respectivos arquivos HTML ou reconstruí-las.
+
+Guarde este ZIP como versão principal e envie-o em futuras conversas para que novas atividades possam ser integradas com segurança. O ChatGPT não atualiza automaticamente a hospedagem nem garante um arquivo fixado acessível em qualquer conversa.
