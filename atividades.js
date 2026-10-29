@@ -20,5 +20,13 @@ window.ATIVIDADES = [
     ano: '2º ano',
     descricao: 'Mais 30 questões de divisão, com desafios elaborados e explicações.',
     arquivo: 'atividades/matematica-2ano-desafio-divisao-30.html'
-  }
+  },
+{
+  titulo: 'Missão Ciências — 20 questões',
+  disciplina: 'Ciências',
+  ano: '5º ano',
+  descricao: 'Quiz interativo sobre corpo humano, água, energia, natureza e meio ambiente.',
+  arquivo: 'atividades/ciencias-5ano-missao-ciencias-20-questoes.html'
+}
 ];
+  
