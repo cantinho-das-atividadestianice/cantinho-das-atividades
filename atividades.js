@@ -28,5 +28,15 @@ window.ATIVIDADES = [
   descricao: 'Quiz interativo sobre corpo humano, água, energia, natureza e meio ambiente.',
   arquivo: 'atividades/ciencias-5ano-missao-ciencias-20-questoes.html'
 }
+  
+,
+{
+  titulo: 'Missão Matemática — 28 questões',
+  disciplina: 'Matemática',
+  ano: '5º ano',
+  descricao: 'Quiz interativo com 7 missões de matemática, desafios e explicações.',
+  arquivo: 'atividades/matematica-5ano-missao-matematica-28-questoes.html'
+}
+
 ];
   
