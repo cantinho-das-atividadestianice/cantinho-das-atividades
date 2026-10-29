@@ -1,3 +1,3 @@
-// Catálogo principal do portal. Cada nova atividade é adicionada aqui.
-// Exemplo: { titulo: 'Tabuada divertida', disciplina: 'Matemática', ano: '2º ano', descricao: 'Quiz com 20 questões', arquivo: 'atividades/tabuada-divertida.html' }
-window.ATIVIDADES = [];
+window.ATIVIDADES = [
+ {titulo:'África e colonização do Brasil — 30 questões',disciplina:'História',ano:'5º ano',descricao:'Quiz interativo das unidades 9 e 10, com pontuação e revisão das respostas.',arquivo:'atividades/historia-africa-brasil-colonial-30-questoes.html'}
+];
